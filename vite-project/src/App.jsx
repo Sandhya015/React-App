@@ -1,11 +1,11 @@
-
+import Signup from "./Signup.jsx"
 
 function App() {
   
 
   return (
     <>
-      hello world
+      <Signup></Signup>
     </>
   )
 }
