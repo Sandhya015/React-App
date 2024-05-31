@@ -11,7 +11,7 @@ function Signup(){
                 <div style={{
                    paddingTop:150,marginBottom:10,padding:15,
                 }}>
-                   <h2> Welcome to To-Do-App, Signup here ok hello hai</h2>
+                   <h2> Welcome to To-Do-App, Signup</h2>
                 </div>
             </center>
             <center>
