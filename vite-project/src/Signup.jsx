@@ -9,9 +9,9 @@ function Signup(){
         <div>
             <center>
                 <div style={{
-                    marginTop:150,marginBottom:10,
+                   paddingTop:150,marginBottom:10,padding:15,
                 }}>
-                    Welcome to To-Do-App, Signup here
+                   <h2> Welcome to To-Do-App, Signup here</h2>
                 </div>
             </center>
             <center>
@@ -19,16 +19,17 @@ function Signup(){
                 <div style={{
                     width: 400,
                     padding:20,
-                    border:"2px solid black",
+                    // border:"2px solid black",
                     marginTop:10,
                     marginBottom:10,
+                   
                 }}>
                    
                  <TextField fullWidth id="outlined-basic" label="Email" variant="outlined" />
                  <br /> <br />
                  <TextField fullWidth id="outlined-basic" label="Password" variant="outlined" type={"password"}/>
                     <br/> <br />
-                    <Button size ={"large"}variant="contained">Hello world</Button>
+                    <Button size ={"large"}variant="contained">Signup</Button>
                 </div>
                 </Card>
             </center>
